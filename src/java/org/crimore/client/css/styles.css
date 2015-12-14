@@ -1,0 +1,24 @@
+main_grid_css{
+    border: 1px solid black; 
+    padding: 8px;
+}
+
+td{
+    padding-bottom: 23px;// bizSwitch
+}
+
+.h1_css{
+    text-align: center; 
+    font-weight: bold; 
+    padding-left: 34px;
+    padding-bottom: 15px;
+}
+
+.transactions_css{
+    border: 1px solid black;
+}
+
+.htmlBox_css{
+    padding-left: 0px; 
+    padding-right: 15px; 
+}
